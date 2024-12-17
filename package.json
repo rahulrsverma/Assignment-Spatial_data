@@ -1,0 +1,14 @@
+{
+  "name": "spatial-backend-api",
+  "version": "1.0.0",
+  "description": "A backend API for storing and retrieving spatial point and polygon data.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "pg": "^8.10.0",
+    "body-parser": "^1.20.2"
+  }
+}
